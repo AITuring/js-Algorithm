@@ -21,4 +21,5 @@ function palindromeChecker(s){
         }
     }
     return isEqual
+    
 }
